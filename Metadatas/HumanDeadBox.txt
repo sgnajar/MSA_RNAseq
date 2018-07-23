@@ -1,0 +1,206 @@
+1. RecName: Full=Eukaryotic initiation factor 4A-I; Short=eIF-4A-I; Short=eIF4A-I;
+AltName: Full=ATP-dependent RNA helicase eIF4A-1
+406 aa protein
+Protein [sequence] GI: 46397463, Accession: P60842.1
+
+2. RecName: Full=Probable ATP-dependent RNA helicase DDX5; AltName: Full=DEAD box
+protein 5; AltName: Full=RNA helicase p68
+614 aa protein
+Protein [sequence] GI: 129383, Accession: P17844.1
+
+3. RecName: Full=Probable ATP-dependent RNA helicase DDX6; AltName:
+Full=ATP-dependent RNA helicase p54; AltName: Full=DEAD box protein 6; AltName:
+Full=Oncogene RCK
+483 aa protein
+Protein [sequence] GI: 116241327, Accession: P26196.2
+
+4. RecName: Full=Eukaryotic initiation factor 4A-III; Short=eIF-4A-III;
+Short=eIF4A-III; AltName: Full=ATP-dependent RNA helicase DDX48; AltName:
+Full=ATP-dependent RNA helicase eIF4A-3; AltName: Full=DEAD box protein 48;
+AltName: Full=Eukaryotic initiation factor 4A-like NUK-34; AltName:
+Full=Eukaryotic translation initiation factor 4A isoform 3; AltName: Full=Nuclear
+matrix protein 265; Short=NMP 265; Short=hNMP 265; Contains: RecName:
+Full=Eukaryotic initiation factor 4A-III, N-terminally processed
+411 aa protein
+Protein [sequence] GI: 20532400, Accession: P38919.4
+
+5. RecName: Full=Eukaryotic initiation factor 4A-II; Short=eIF-4A-II;
+Short=eIF4A-II; AltName: Full=ATP-dependent RNA helicase eIF4A-2; Contains:
+RecName: Full=Eukaryotic initiation factor 4A-II, N-terminally processed
+407 aa protein
+Protein [sequence] GI: 45645183, Accession: Q14240.2
+
+6. RecName: Full=Spliceosome RNA helicase DDX39B; AltName: Full=56 kDa
+U2AF65-associated protein; AltName: Full=ATP-dependent RNA helicase p47; AltName:
+Full=DEAD box protein UAP56; AltName: Full=HLA-B-associated transcript 1 protein
+428 aa protein
+Protein [sequence] GI: 2500529, Accession: Q13838.1
+
+7. RecName: Full=ATP-dependent RNA helicase DDX3X; AltName: Full=DEAD box protein 3,
+X-chromosomal; AltName: Full=DEAD box, X isoform; AltName: Full=Helicase-like
+protein 2; Short=HLP2
+662 aa protein
+Protein [sequence] GI: 3023628, Accession: O00571.3
+
+8. RecName: Full=Probable ATP-dependent RNA helicase DDX17; AltName: Full=DEAD box
+protein 17; AltName: Full=DEAD box protein p72; AltName: Full=RNA-dependent
+helicase p72
+729 aa protein
+Protein [sequence] GI: 380865374, Accession: Q92841.2
+
+9. RecName: Full=Probable ATP-dependent RNA helicase DDX10; AltName: Full=DEAD box
+protein 10
+875 aa protein
+Protein [sequence] GI: 76803554, Accession: Q13206.2
+
+10. ATP-dependent RNA helicase DDX1 [Homo sapiens]
+740 aa protein
+Protein [sequence] GI: 4826686, Accession: NP_004930.1
+
+11. RecName: Full=ATP-dependent RNA helicase DDX3Y; AltName: Full=DEAD box protein 3,
+Y-chromosomal
+660 aa protein
+Protein [sequence] GI: 73620957, Accession: O15523.2
+
+12. RecName: Full=ATP-dependent RNA helicase DDX19B; AltName: Full=DEAD box RNA
+helicase DEAD5; AltName: Full=DEAD box protein 19B
+479 aa protein
+Protein [sequence] GI: 10719979, Accession: Q9UMR2.1
+
+13. RecName: Full=Probable ATP-dependent RNA helicase DDX20; AltName: Full=Component 
+of gems 3; AltName: Full=DEAD box protein 20; AltName: Full=DEAD box protein DP
+103; AltName: Full=Gemin-3
+824 aa protein
+Protein [sequence] GI: 12643886, Accession: Q9UHI6.2
+
+14. RecName: Full=Probable ATP-dependent RNA helicase DDX41; AltName: Full=DEAD box
+protein 41; AltName: Full=DEAD box protein abstrakt homolog
+622 aa protein
+Protein [sequence] GI: 20532370, Accession: Q9UJV9.2
+
+15. RecName: Full=ATP-dependent RNA helicase DDX18; AltName: Full=DEAD box protein
+18; AltName: Full=Myc-regulated DEAD box protein; Short=MrDb
+670 aa protein
+Protein [sequence] GI: 20532388, Accession: Q9NVP1.2
+
+16. RecName: Full=Nucleolar RNA helicase 2; AltName: Full=DEAD box protein 21;
+AltName: Full=Gu-alpha; AltName: Full=Nucleolar RNA helicase Gu; AltName:
+Full=Nucleolar RNA helicase II; AltName: Full=RH II/Gu
+783 aa protein
+Protein [sequence] GI: 76803555, Accession: Q9NR30.5
+
+17. RecName: Full=ATP-dependent RNA helicase DDX24; AltName: Full=DEAD box protein 24
+859 aa protein
+Protein [sequence] GI: 18202929, Accession: Q9GZR7.1
+
+18. RecName: Full=Probable ATP-dependent RNA helicase DDX4; AltName: Full=DEAD box
+protein 4; AltName: Full=Vasa homolog
+724 aa protein
+Protein [sequence] GI: 20138033, Accession: Q9NQI0.2
+
+19. RecName: Full=Probable ATP-dependent RNA helicase DDX56; AltName:
+Full=ATP-dependent 61 kDa nucleolar RNA helicase; AltName: Full=DEAD box protein 
+21; AltName: Full=DEAD box protein 56
+547 aa protein
+Protein [sequence] GI: 20139238, Accession: Q9NY93.1
+
+20. RecName: Full=ATP-dependent RNA helicase DDX25; AltName: Full=DEAD box protein
+25; AltName: Full=Gonadotropin-regulated testicular RNA helicase
+483 aa protein
+Protein [sequence] GI: 61222937, Accession: Q9UHL0.2
+
+21. RecName: Full=Probable ATP-dependent RNA helicase DDX27; AltName: Full=DEAD box
+protein 27
+796 aa protein
+Protein [sequence] GI: 29427946, Accession: Q96GQ7.2
+
+22. RecName: Full=Probable ATP-dependent RNA helicase DDX52; AltName:
+Full=ATP-dependent RNA helicase ROK1-like; AltName: Full=DEAD box protein 52
+599 aa protein
+Protein [sequence] GI: 296439375, Accession: Q9Y2R4.3
+
+23. RecName: Full=ATP-dependent RNA helicase DDX54; AltName: Full=ATP-dependent RNA
+helicase DP97; AltName: Full=DEAD box RNA helicase 97 kDa; AltName: Full=DEAD box
+protein 54
+881 aa protein
+Protein [sequence] GI: 46576615, Accession: Q8TDD1.2
+
+24. RecName: Full=Probable ATP-dependent RNA helicase DDX47; AltName: Full=DEAD box
+protein 47
+455 aa protein
+Protein [sequence] GI: 52782792, Accession: Q9H0S4.1
+
+25. RecName: Full=ATP-dependent RNA helicase DDX50; AltName: Full=DEAD box protein
+50; AltName: Full=Gu-beta; AltName: Full=Nucleolar protein Gu2
+737 aa protein
+Protein [sequence] GI: 55976580, Accession: Q9BQ39.1
+
+26. RecName: Full=ATP-dependent RNA helicase DDX39A; AltName: Full=DEAD box protein
+39; AltName: Full=Nuclear RNA helicase URH49
+427 aa protein
+Protein [sequence] GI: 61212932, Accession: O00148.2
+
+27. RecName: Full=Probable ATP-dependent RNA helicase DDX23; AltName: Full=100 kDa U5
+snRNP-specific protein; AltName: Full=DEAD box protein 23; AltName: Full=PRP28
+homolog; AltName: Full=U5-100kD
+820 aa protein
+Protein [sequence] GI: 160385708, Accession: Q9BUQ8.3
+
+28. RecName: Full=Probable ATP-dependent RNA helicase DDX31; AltName: Full=DEAD box
+protein 31; AltName: Full=Helicain
+851 aa protein
+Protein [sequence] GI: 71153334, Accession: Q9H8H2.2
+
+29. RecName: Full=ATP-dependent RNA helicase DDX19A; AltName: Full=DDX19-like
+protein; AltName: Full=DEAD box protein 19A
+478 aa protein
+Protein [sequence] GI: 73919226, Accession: Q9NUU7.1
+
+30. RecName: Full=Probable ATP-dependent RNA helicase DDX49; AltName: Full=DEAD box
+protein 49
+483 aa protein
+Protein [sequence] GI: 74753527, Accession: Q9Y6V7.1
+
+31. RecName: Full=Probable ATP-dependent RNA helicase DDX43; AltName:
+Full=Cancer/testis antigen 13; Short=CT13; AltName: Full=DEAD box protein 43;
+AltName: Full=DEAD box protein HAGE; AltName: Full=Helical antigen
+648 aa protein
+Protein [sequence] GI: 145559466, Accession: Q9NXZ2.2
+
+32. RecName: Full=Probable ATP-dependent RNA helicase DDX53; AltName:
+Full=Cancer-associated gene protein; AltName: Full=Cancer/testis antigen 26;
+Short=CT26; AltName: Full=DEAD box protein 53; AltName: Full=DEAD box protein
+CAGE
+631 aa protein
+Protein [sequence] GI: 143811384, Accession: Q86TM3.3
+
+33. RecName: Full=Probable ATP-dependent RNA helicase DDX28; AltName:
+Full=Mitochondrial DEAD box protein 28
+540 aa protein
+Protein [sequence] GI: 296434476, Accession: Q9NUL7.2
+
+34. RecName: Full=Probable ATP-dependent RNA helicase DDX46; AltName: Full=DEAD box
+protein 46; AltName: Full=PRP5 homolog
+1031 aa protein
+Protein [sequence] GI: 116241326, Accession: Q7L014.2
+
+35. RecName: Full=ATP-dependent RNA helicase DDX51; AltName: Full=DEAD box protein 51
+666 aa protein
+Protein [sequence] GI: 229462978, Accession: Q8N8A6.3
+
+36. RecName: Full=ATP-dependent RNA helicase DDX55; AltName: Full=DEAD box protein 55
+600 aa protein
+Protein [sequence] GI: 296439376, Accession: Q8NHQ9.3
+
+37. RecName: Full=ATP-dependent RNA helicase DDX42; AltName: Full=DEAD box protein
+42; AltName: Full=RNA helicase-like protein; Short=RHELP; AltName: Full=RNA
+helicase-related protein; Short=RNAHP; AltName: Full=SF3b DEAD box protein;
+AltName: Full=Splicing factor 3B-associated 125 kDa protein; Short=SF3b125
+938 aa protein
+Protein [sequence] GI: 74750541, Accession: Q86XP3.1
+
+38. RecName: Full=Probable ATP-dependent RNA helicase DDX59; AltName: Full=DEAD box
+protein 59; AltName: Full=Zinc finger HIT domain-containing protein 5
+619 aa protein
+Protein [sequence] GI: 74762230, Accession: Q5T1V6.1
+
